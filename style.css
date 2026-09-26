@@ -16,7 +16,7 @@ p {
 
 /* Khung bọc từng ảnh và chữ: chia tỉ lệ kích thước */
 .image-card {
-  width: 30%; /* Mỗi cụm chiếm khoảng 30% chiều rộng */
+  width: 10%; /* Mỗi cụm chiếm khoảng 30% chiều rộng */
   display: flex;
   flex-direction: column; /* Đảm bảo chữ bị đẩy xuống dưới ảnh */
   align-items: center; /* Căn giữa ảnh và chữ */
